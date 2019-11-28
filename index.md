@@ -1,10 +1,6 @@
 ---
 layout: home
 ---
-# About Theme
+# About 
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
-
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
-
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
+1992 gegründet, hat sich das Ensemble »Music Project Altmark West« in auch heute noch wechselnden Besetzungen der Vokalmusik unterschiedlichster Epochen und Stilrichtungen verschrieben, ohne sich dabei festlegen zu lassen. Der Name »Music Project Altmark West«, der immer wieder Irritationen auslöst, ist inzwischen zu einem Synonym für höchsten musikalischen Anspruch und mehrfach ausgezeichnete Qualität geworden. Der ungewöhnliche Name rückt aber auch den Kerngedanken ihrer musikalischen Arbeit, den im besten Sinne »gelebten« Projektgedanken in den Fokus: Musikalisch niemals stehen zu bleiben, sich weiter zu entwickeln und sich eben nicht festlegen zu lassen. Nach 20 Jahren auf der Bühne können die heute sechs Sänger sagen, dass Experimentierfreude, Neugier und Spaß am gemeinsamen Singen nicht nur ihre Probenarbeit, sondern auch ihre Programme und ihr Repertoire prägen. Der hohe Einsatz, mit dem sie an sich arbeiten, die sorgfältige Beschäftigung mit der Aufführungspraxis vokaler Musik und die Gründlichkeit, mit der sie ihre Programme vorbereiten, stehen dabei im Mittelpunkt ihrer musikalischen Arbeit fernab der Bühnen und Podien. Die Gründe für ihren musikalischen Erfolg und die Beständigkeit dieses Ensembles sind sicher vielfältig. Sie selbst sagen, dass es sehr wahrscheinlich einfach nur in dem besonderen Gefühl liege, dem besonderen Erlebnis, das schwer zu beschreiben sei, das aber jeder von ihnen immer wieder fasziniert beobachte, ja genieße: »Wie leidenschaftlich und herzlich gearbeitet wird, wie chaotisch und abenteuerlich so manche Konzertreise verläuft und wie konzentriert und im besten Sinne routiniert dann doch alles im Moment des Auftritts abläuft.«

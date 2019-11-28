@@ -1,14 +1,14 @@
 # Site
 title: Music Project Altmark West
 description: Preisgekröntes Vokalensemble, das sich der Vokalmusik unterschiedlichster Epochen und Stilrichtungen verschrieben hat.
-url: https://taylantatli.github.io/Halve
+url: https://mpaw.de
 logo: halve.png                                       # Site logo
-locale: en_US
+locale: de_DE
 
 # Left Block Images
 background:
-  homepage: images/home.png                           # this image will be shown on homepage's left block
-  post-list: images/unsplash-image-10.jpg             # this image will be shown on post list page
+  homepage: images/unsplash-image-12.jpg                           # this image will be shown on homepage's left block
+  post-list: images/unsplash-image-11.jpg             # this image will be shown on post list page
   default-post: images/unsplash-gallery-image-3.jpg   # this image will be shown when post's front matter doesn't specify any image
 
 # Jekyll
@@ -31,10 +31,10 @@ sass:
 # Social Links
 #email:             email
 #google.plus:        username
-twitter:            username
-#facebook:           username
-github:             username
-stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+twitter:            mpaw1992
+facebook:           alexander.klopp@gmx.com
+#github:             username
+#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
 #instagram:          username
@@ -44,7 +44,7 @@ stackoverflow:     123456/username   from a "http://stackoverflow.com/users/1234
 #foursquare:        username
 #steam:              username
 #dribbble:          username
-#youtube:           username
+youtube:           username
 #soundcloud:        username
 #weibo:             username
 #flickr:            username
@@ -52,7 +52,7 @@ stackoverflow:     123456/username   from a "http://stackoverflow.com/users/1234
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-behance:           username
+#behance:           username
 
 # Gems
 gems:
