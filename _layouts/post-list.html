@@ -16,10 +16,12 @@ layout: compress
     </div>
 
     <div class="block-right">
-      <a href="posts.html" title="posts" class="posts-menu-icon"></a>
-      <a title="projects" class="projects-menu-icon">
-        <span></span>
-      </a>
+	<div class="menu">
+		 <ul>
+			<li><a href="/concerts.html">CONCERTS</a></li>
+			<li><a href="/posts.html">POSTS</a></li>
+		</ul> 
+	</div>
       <div class="content">
         <ul class="posts-list">
         {% for post in site.posts %}
